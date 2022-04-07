@@ -1,12 +1,12 @@
 git 
-git config --global user.name "sanguinesiva"
-git config --global user.email sivakandaswamy@outlool.com
+git config --global user.name 
+git config --global user.email
 git config -- list
 git status
 git init
 git add .
 git commit -m "comment"
-git remote add origin https://github.com/sanguinesiva/html-css.git
+git remote add origin 
 git push-u origin master
 
 touch file.txt
@@ -27,7 +27,7 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git push origin --delete old branch
-git remote add origin https://github.com/sanguinesiva/TestNg.git
+git remote add origin 
 git push -u origin main
 git log
 
