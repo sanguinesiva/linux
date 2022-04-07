@@ -1,0 +1,48 @@
+git 
+git config --global user.name "sanguinesiva"
+git config --global user.email sivakandaswamy@outlool.com
+git config -- list
+git status
+git init
+git add .
+git commit -m "comment"
+git remote add origin https://github.com/sanguinesiva/html-css.git
+git push-u origin master
+
+touch file.txt
+
+git branch -m rough-work-master rough
+git fetch origin
+git branch -u origin/rough rough
+git remote set-head origin -a
+
+
+
+
+create a new repository on the command line
+
+echo "# TestNg" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git push origin --delete old branch
+git remote add origin https://github.com/sanguinesiva/TestNg.git
+git push -u origin main
+git log
+
+
+git remote-v
+git branch -a
+git clone 
+git checkout master
+
+
+
+linux
+
+
+cd / root directory
+cd ~ home directory
+cd.. navigate up one directory
+cd- navigate to previous direct
